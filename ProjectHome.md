@@ -1,0 +1,1 @@
+Demo project to showcase the features of Spring Integration release 2.0.0.M3 which can be used to provide network message transfer functionality to an application.
